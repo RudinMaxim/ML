@@ -1,1 +1,1 @@
-url = 'https://habr.com/ru/companies/selectel/articles/'
+URL = 'https://habr.com/ru/flows/design/articles/'
