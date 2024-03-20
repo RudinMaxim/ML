@@ -1,1 +1,0 @@
-URL = 'https://habr.com/ru/flows/design/articles/'
